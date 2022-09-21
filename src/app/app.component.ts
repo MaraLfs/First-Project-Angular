@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Bienvenue sur le site de Mara';
+  title = 'Liste de films';
+showMovies:boolean = true;
+  
 }
